@@ -16,5 +16,9 @@ This is a simple web project, deployment can be on any web server or even a loca
 
 ## How To Contirbute
 
+Please fork this repo and then issue Pull request for review.
+
 ##Copyright
 2014 Git.Training
+
+
